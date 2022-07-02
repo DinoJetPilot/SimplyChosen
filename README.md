@@ -1,7 +1,7 @@
 # SimplyChosen
 Simply Chosen: A Stepmom Journey
 
-#### Notes from FB
+### Notes from FB
 
 Aimee Richard
 simplychosen.aimeerichard@gmail.com
@@ -9,14 +9,13 @@ simplychosen.aimeerichard@gmail.com
 About: 
 Simply Chosen: A Stepmom Journey is written from my personal experience as a stepmom of almost 15 years. I am far from an expert but I feel that God has simply chosen me and many of you for this role!
 
---
+### Intro
 Welcome to Simply Chosen A Stepmom Journey!  My name is Aimee and I have been a stepmom for almost 16 years now. It has been one of my biggest blessings as well as one of my biggest struggles! It also happens that I wrote a book about my journey😱 I honestly still can’t believe that happened! 
 My life was radically transformed by Jesus about 13 years ago and because of that my journey as a wife and stepmom was as well. I am passionate about seeing women set free to walk in their unique, God given roles!
 I have a great love for all of my stepmom sisters out there and truly feel led by God to reach out to you and share my story in the hopes that it will help you on your journey. I will be honest it is not always pretty, I am a bit of a hot mess and I do not by any means have it all together! Lol! I have however learned a lot along the way and I continue to learn and grow every single day. 
 Stepmom sisters, I hope you will join me in embracing our God given calling. I believe, we as Stepmoms need to come together and encourage and love each other while also calling ourselves to a higher standard. One that is full of grace, mercy, love, forgiveness and healing!
 
--
-Posts:
+### Posts:
 Being a stepmom is sometimes hard and painful. It can feel like you’re all alone and no one understands what you’re going through. But God does!! He understands and He is with you! Don’t believe the lie that you are all alone on this journey. Stepmom sisters, I am here for you and more importantly God is! 
 -
 Nature’s ombré! Isn’t it so pretty? My husband planted this last year in our flower bed and then over the winter and a freeze, it died. We were so surprised when it came back to life in the spring even more beautiful than before!
