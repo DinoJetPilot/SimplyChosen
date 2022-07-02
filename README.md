@@ -15,7 +15,7 @@ My life was radically transformed by Jesus about 13 years ago and because of tha
 I have a great love for all of my stepmom sisters out there and truly feel led by God to reach out to you and share my story in the hopes that it will help you on your journey. I will be honest it is not always pretty, I am a bit of a hot mess and I do not by any means have it all together! Lol! I have however learned a lot along the way and I continue to learn and grow every single day. 
 Stepmom sisters, I hope you will join me in embracing our God given calling. I believe, we as Stepmoms need to come together and encourage and love each other while also calling ourselves to a higher standard. One that is full of grace, mercy, love, forgiveness and healing!
 
---
+-
 Posts:
 Being a stepmom is sometimes hard and painful. It can feel like you’re all alone and no one understands what you’re going through. But God does!! He understands and He is with you! Don’t believe the lie that you are all alone on this journey. Stepmom sisters, I am here for you and more importantly God is! 
 -
