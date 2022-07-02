@@ -1,2 +1,89 @@
 # SimplyChosen
 Simply Chosen: A Stepmom Journey
+
+#### Notes from FB
+
+Aimee Richard
+simplychosen.aimeerichard@gmail.com
+
+About: 
+Simply Chosen: A Stepmom Journey is written from my personal experience as a stepmom of almost 15 years. I am far from an expert but I feel that God has simply chosen me and many of you for this role!
+
+--
+Welcome to Simply Chosen A Stepmom Journey!  My name is Aimee and I have been a stepmom for almost 16 years now. It has been one of my biggest blessings as well as one of my biggest struggles! It also happens that I wrote a book about my journey😱 I honestly still can’t believe that happened! 
+My life was radically transformed by Jesus about 13 years ago and because of that my journey as a wife and stepmom was as well. I am passionate about seeing women set free to walk in their unique, God given roles!
+I have a great love for all of my stepmom sisters out there and truly feel led by God to reach out to you and share my story in the hopes that it will help you on your journey. I will be honest it is not always pretty, I am a bit of a hot mess and I do not by any means have it all together! Lol! I have however learned a lot along the way and I continue to learn and grow every single day. 
+Stepmom sisters, I hope you will join me in embracing our God given calling. I believe, we as Stepmoms need to come together and encourage and love each other while also calling ourselves to a higher standard. One that is full of grace, mercy, love, forgiveness and healing!
+
+--
+Posts:
+Being a stepmom is sometimes hard and painful. It can feel like you’re all alone and no one understands what you’re going through. But God does!! He understands and He is with you! Don’t believe the lie that you are all alone on this journey. Stepmom sisters, I am here for you and more importantly God is! 
+-
+Nature’s ombré! Isn’t it so pretty? My husband planted this last year in our flower bed and then over the winter and a freeze, it died. We were so surprised when it came back to life in the spring even more beautiful than before!
+Isn’t this representative of the kingdom of God? We see many seed analogies in the Bible. We see death before glorious resurrection. 
+When we come to Jesus, we are made into new creations. The seed of our previous life is sewn in seeming death and darkness but God in His grace and mercy and LOVE brings forth NEW life in Christ! 
+As a stepmom, I had to let my dreams and ideas of what I thought and hoped life would be like die. I had to surrender them to God and let Him do a work in me. In doing so, He brought new life, hopes and dreams and He fulfilled the desires of my heart in a way I didn’t think possible. And He will do the same for you if you let Him! 
+-
+Real truth right here! If I am going to make it through each day there must be prayer in the morning. If I am going to be loving and kind towards people there must be prayer in the morning! For years my husband did not understand why I had to spend so much time each morning in the word and in prayer… Little did he know it was the only way I could make it through the day without putting my hands on someone! And I don’t mean laying hands on for Prayer either😂 OK?!? Is it just me or does anyone else have the same struggle??? On my own I am a hot mess! It is only through the Lord that there is anything good that comes from this vessel right here!
+-
+Encouraging an atmosphere of trust is so important with our stepchildren! We have to earn their trust, we shouldn’t just expect them to trust us automatically. 
+Giving our stepchildren a place to be heard is a great start. Listen without interrupting or trying to fix things. Just knowing they are being heard can help develop trust. 
+What are some other ways we can do this? 
+-
+Meet the 4th member of our family! This is our little Prancy girl! The sweetest chihuahua ever. We rescued her several years ago. At first she was very shy and guarded especially with men. Today she is absolutely spoiled rotten and approaches almost anyone for pets or food😂 
+I’m her person but Madison and Kevin are close seconds. Although when we left on a girls trip she was pretty mad without us lol 😂 she’s a quirky little thing but she’s ours and we love her, even Kevin who says she’s just ok but talks to her in his baby voice, takes her for rides and gives her bacon treats😉🤣 (don’t tell him I told y’all 😉🤫🤭)
+Does your blended family have fur babies too?? We would love to see 
+-
+Divorce is traumatic! Let’s not forget that. Being separated from a parent is really hard and traumatizing for children. We as stepmoms need to be sensitive to that. It is so important that we don’t force ourselves on our stepchildren but develop a relationship over time that allows them the space to grieve and heal and learn how to deal with new circumstances. Lots of prayer and grace is needed! 
+-
+“Great marriages don’t happen by luck or by accident. They are the result of a consistent investment of time, thoughtfulness, forgiveness, affection, prayer, mutual respect and a rock solid commitment between a husband and wife.” -Dave Willis 
+TRUTH!!! Kevin and I have been through SO much. But by the grace of God we are who we are today. We have put a lot of time, effort, work, prayer and more into our marriage. It hasn’t been easy but it has been worth it!
+-
+God has given us as stepmoms a beautiful opportunity to be a part of parenting children that are not ours; to be a part of their lives and watch them grow in every way: physically, spiritually and emotionally. I pray that you recognize and embrace this blessing!
+-
+A lot of life is about waiting. Waiting for flowers to bloom, for winter to pass and spring to come, waiting for answers… 
+In our stepmom journey it can be waiting on our husband, waiting on our stepchildren, waiting on the bio mom… Lots of things are outside of our control. That can often lead to frustration.
+I wonder how many of us give up on waiting and take things into our own hands. Or we just give up before the breakthrough and the victory comes. 
+Just as this beautiful flower bloomed many weeks after getting it. So too will we have our breakthroughs and victories and beautiful moments in our lives if we just wait on God and be obedient to whatever He is calling us to do in this season.
+Just as eventually winter is over and spring comes bringing with it new life and beauty, eventually our season of waiting or struggle will end and with it will come new life and beauty!
+Don’t give up sisters! Put your hope and trust in God and He will make all things new!
+-
+I’ve been trying to figure out how to share this with y’all. I want to always be real and honest. I don’t ever want anyone to look at my social media and think I have it all together or feel any sort of way less than.
+I struggle every single day in some way. One way is that I battle chronic illness. My official diagnosis is Fibromyalgia. A few years ago my life changed in the blink of an eye when I got sick. It was completely debilitating. 
+Lately I have been getting a lot better due to seeing a fibro specialist, hiring a health coach and increasing my protein intake, getting myself moving again and a combination of other things. I had been doing really really well. To the point I thought I had defeated it.
+Then the heat and humidity of living in South Louisiana hit and I have been in a flare for almost a month now. Talk about discouraging! I have been battling not only my physical health but my mental health as well. Battling thoughts of “how am I going to live with this for the rest of my life?” 
+Then there’s the stress of other situations that come up which also affect my health. My SD’s graduation was a wonderful time of celebration but also a very stressful time of being around her mom and dealing with the tension of all of that. I had a lot of anxiety to say the least! And it caused my health to get worse. 
+This is not anyone’s fault and I don’t want to sound like it is. But it is REAL! And it affects my journey as a stepmom, a wife, and my relationship with God and others. And that is why I am sharing it with you all. I am more than sure there are other stepmoms out there dealing with similar issues, maybe even afraid of speaking up. I want you to know, you are not alone! 
+WE are NOT alone! God is with us and He is using EVERY SINGLE STRUGGLE for our good and His glory. He has used this in my life in SO many ways! I will definitely be sharing more with y’all in the future. But also, I am here for you stepmoms. Let’s be available to each other for love, encouragement, a listening ear, a shoulder to cry on.
+-
+Being a stepmom isn’t exactly something I always wanted to do but it is something I believe God has called me to do. In Psalm 139:16 says, “Your eyes saw my substance being yet unformed. And in Your book they all were written, the days fashioned for me, when as yet there were none of them.” This verse, actually this whole psalm is such a comfort to me! God knew and fashioned our days before there was even one. This was always His plan for me even if it wasn’t my plan. I am honored that He has called me to be a Stepmom. Is it easy? No. But it is worth it!
+-
+ALL children are a gift from God especially our stepchildren! It breaks my heart when I see stepmoms denigrating their stepchildren. This is not ok! They are God’s creation, made in His image! We should remember that and treat them accordingly. I know and understand that blended family life is not easy and sometimes can be very difficult BUT that is no excuse to treat others badly, especially children! Let’s try to remember that they are a gift to us from God and He will use them to shape and refine us and draw us closer to Him! It is a privilege to have them in our lives whether it FEELS like it or not!!
+-
+But if you do not forgive others (nurturing your hurt and anger with the result that it interferes with your relationship with God) then your Father will not forgive your trespasses. Matthew 6:14-15 AMP
+Forgiveness is something we don’t always like to talk about. We say things like “I’ll forgive but I’ll never forget” or “they don’t deserve my forgiveness” or “I’ll forgive when they apologize”.
+BUT! That is not what Gods word says. It says to forgive so we will be forgiven. We forgive because God has forgiven us. He gives us the power to do so. 
+When I read this in the amplified version this morning, it really struck me that when we nurture our hurt and anger, it interferes with our relationship with God! I don’t think any of us want that. 
+As stepmoms, it is to our benefit to live a life of forgiveness! Otherwise we will allow our relationship with God and others to deteriorate. Ultimately we hurt ourselves more than anyone else! True freedom and healing comes through the power of forgiveness. Let’s not forget what God has forgiven us of!
+-
+This! This right here! Is not an easy thing to do. It doesn’t come naturally to us. What tends to come naturally is defensiveness. It may look different for each of us but usually when someone hurts us our natural response is to protect ourselves in some way. But God’s word tells us to do the exact opposite of that. Imagine how powerful this could be! What if we as stepmoms start implementing this in our stepmom journey? What if when we are hurt by our spouse, our stepchildren, or the bio mom we prayed for them instead???  
+-
+Relationships are such a gift from God. They are where we grow, where we are loved and accepted as we are, where we learn to be more like Jesus. I’m so grateful for my beautiful stepdaughter @madisonlouise__ and the relationship we have! We’re far from perfect, we have our flaws and issues but we are His🙌🏻
+-
+Being a stepmom is one of the hardest and most rewarding things I’ve ever done! Most of us have no idea what we’re signing up for when we marry a man with children. Stepmom sisters, you are not alone! You can do this and do it well. God has done a major work in me during this journey and He will do the same for you🙌🏻
+-
+“As a stepmom, I am sometimes mom like. I do mom things. I am a mother figure. But I am not Mom.” - Aimee Richard, Simply Chosen                                                              
+And that is ok! Stepmom sisters, you are not alone in this journey. We are in it together and I want you to know it is ok to not be “mom.” Let’s embrace our unique role in our stepchildrens life instead of trying to fill a role that’s not ours. 
+-
+Whatever it is, do it! No matter how small that first step is, just take it. You know... that idea you’ve been rolling around in your head, that nudge you feel in your spirit... 
+For years I had the idea for my Stepmom book in my head but I didn’t think I could do it. Then, one day I just sat down with a notebook and pen to write down my ideas. The next thing I knew, I had outlined a whole book! 
+That was my first step. What’s yours?
+-
+“Do not ever doubt the power of your story...” Simply Chosen: A Stepmoms Journey
+You never know who you might help by sharing your story! People often look at us and think we have it all together. I love to share my story and my struggles with others. We all need to know we are not alone in this journey, that someone understands.
+It’s hard to share the bad things about our past. But, what if by sharing we help someone else overcome? The Bible says we overcome by the blood of the lamb (Jesus) and the word of our testimony (our story). I believe this deeply! I have witnessed the effects of it.
+Who can you share your story with today? We’d love to hear whatever you feel led to share 💕
+-
+“Being a stepmom is simultaneously the greatest blessing and the most difficult thing I’ve ever done.” -Quote from my book. 
+-
+
