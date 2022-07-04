@@ -1,13 +1,62 @@
+:root {
+    --color-1: #f4deca;
+    --color-2: #db9f68;
+    --color-3: #92512e;
+
+    --accent-1: #fcba04;
+    --accent-2: #a50104;
+    --accent-3: #590004;
+}
+
 body {
     font-family: 'Poppins', sans-serif;
     font-weight: 400;
+    overflow-x: hidden;
 }
 
 h1, h6 {
-    margin: 0.15rem 1rem;
-    font-family: 'Birthstone Bounce', cursive;
+    margin: 0.25rem 2rem;
+    font-family: 'Birthstone Bounce', 'Poppins', sans-serif, cursive;
 }
 
 h4, h5 {
     font-weight: 600;
+}
+
+.navbar {
+    background-color: var(--accent-3);
+    font-size: 0.9rem;
+    min-height: 65px;
+}
+
+.navbar-brand, .nav-link {
+    color: var(--color-1);
+}
+
+.nav-link:hover, .nav-link:active, .navbar-brand:hover, .navbar-brand:active, .navbar-brand:visited, .navbar-brand:hover {
+    color: var(--color-2);
+}
+
+.navbar .navbar-toggler[aria-expanded="true"] {
+    color: var(--color-3) !important;
+}
+
+.navbar .navbar-toggler {
+    color: var(--color-3);
+}
+
+.custom-toggler.navbar-toggler {
+    border-color: rgb(255, 102, 203) !important;
+}
+
+.red-bg {
+    background-color: var(--accent-3);
+}
+
+.color-2 {
+    background-color: var(--color-2);
+}
+
+.profile-pic {
+    max-width: 450px;
 }

@@ -14,7 +14,7 @@
     href="https://fonts.googleapis.com/css2?family=Birthstone+Bounce:wght@400;500&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap"
     rel="stylesheet">
 
-  <!-- Boostrap CSS Link -->
+  <!-- Bootstrap CSS -->
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet"
     integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
 
@@ -22,40 +22,39 @@
 </head>
 
 <body>
-  <!-- Boostrap JS Link -->
-  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js"
-    integrity="sha384-pprn3073KE6tl6bjs2QrFaJGz5/SUsLqktiwsUTF55Jfv3qYSDhgCecCxMW52nD2"
-    crossorigin="anonymous"></script>
 
   <section id="title">
 
-    <!-- Nav Bar -->
-    <nav class="navbar bg-dark navbar-expand-lg navbar-dark">
-      <h6><a class="navbar-brand" href="">
+    <!-- Nav Bar (removed "navbar-dark" class) -->
+    <nav class="navbar fixed-top navbar-expand-md">
+      <h6><a class="navbar-brand" href="#">
           Simply Chosen
-        </a>
-        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
-          aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-          <span class="navbar-toggler-icon"></span>
-      </h6>
+        </a> </h6>
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent"
+        aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+
 
       </button>
       <div class="collapse navbar-collapse" id="navbarSupportedContent">
-        <ul class="navbar-nav ml-auto text-uppercase">
+        <ul class="navbar-nav ms-auto text-uppercase">
           <li class="nav-item">
-            <a class="nav-link" href="">About</a>
+            <a class="nav-link" href="#about">About</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="">Book</a>
+            <a class="nav-link" href="#book">Book</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="">Bio</a>
+            <a class="nav-link" href="#quotes">Quotes</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="">Reviews</a>
+            <a class="nav-link" href="#bio">Bio</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="">Blog</a>
+            <a class="nav-link" href="#reviews">Reviews</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#blog">Blog</a>
           </li>
         </ul>
       </div>
@@ -65,78 +64,100 @@
 
     <!-- Landing -->
 
-    <div>
-      <h1 class="display-1">Simply Chosen</h1>
-      <h2>H2</h2>
-      <h3>A Stepmom Journey</h3>
-      <h4>H4</h4>
-      <h5>H5</h5>
-      <h6>H6</h6>
-      <button type="button">Download</button>
-      <button type="button">Download</button>
-    </div>
-    <div>
-      <img src="images/iphone6.png" alt="iphone-mockup">
+    <div class="container-fluid px-0">
+      <div class="row">
+        <div class="col">
+          <img class="img-fluid w-100" src="images/banner-large-a.jpg" alt="Simply Chosen: A Stepmom Journey">
+        </div>
+      </div>
     </div>
 
   </section>
 
+  <!-- About -->
 
-  <!-- Features -->
+  <section id="about">
+    <div class="row mx-auto">
+      <div class="col-lg-5 col-md-12">
+        <img class="img-fluid" src="images/logo-1a.jpg" alt="Simply Chosen">
+        <span class="mx-auto">
+          <button type="button">View the Blog</button>
+          <button type="button">Contact Me</button>
+        </span>
+      </div>
+      <div class="col-lg-2"></div>
+      <div class="col-lg-5 col-md-12">
+        <p><i>Simply Chosen: A Stepmom Journey</i> is written from my personal experience as a stepmom of almost 15
+          years. I am
+          far from an expert but I feel that God has simply chosen me, and many of you, for this role!</p>
+        <img class="img-thumbnail rounded-circle profile-pic" src="images/profile-2a.jpg" alt="Aimee Richard">
+      </div>
+    </div>
 
-  <section id="features">
+    <h2>H2</h2>
+    <h3>A Stepmom Journey</h3>
+    <h4>H4</h4>
+    <h5>H5</h5>
+    <h6>H6</h6>
 
-    <h3>Easy to use.</h3>
-    <p>So easy to use, even your dog could do it.</p>
+  </section>
 
-    <h3>Elite Clientele</h3>
-    <p>We have all the dogs, the greatest dogs.</p>
+  <!-- Call to Action -->
 
-    <h3>Guaranteed to work.</h3>
-    <p>Find the love of your dog's life or your money back.</p>
+  <section class="color-2" id="book">
+
+    <h3>The Book</h3>
+    <button type="button">Order the Book</button>
+
+  </section>
+
+  <!-- Quotes -->
+
+  <section id="quotes">
+    <img src="images/quote-1.jpg" alt="">
+    <img src="images/quote-2.jpg" alt="">
+    <img src="images/quote-3.jpg" alt="">
+    <img src="images/quote-4.jpg" alt="">
+    <img src="images/quote-5.jpg" alt="">
+
+  </section>
+
+  <!-- Biography -->
+
+  <section class="color-2" id="bio">
+
+    <h2>Marriage & Family</h2>
+    <img src="images/kevin-and-aimee-2.jpg" alt="Kevin and Aimee Richard">
+    <img src="images/sugarcane-field.jpg" alt="Aimee and Madison">
+
+  </section>
+
+  <!-- Reviews -->
+
+  <section id="reviews">
+    <img src="images/quote-1.jpeg" alt="">
+    <img src="images/quote-2.jpeg" alt="">
+    <img src="images/quote-3.jpeg" alt="">
+    <img src="images/quote-4.jpeg" alt="">
+    <img src="images/quote-5.jpeg" alt="">
 
   </section>
 
 
-  <!-- Testimonials -->
+  <!-- Blog -->
 
-  <section id="testimonials">
+  <section id="blog">
 
-    <h2>I no longer have to sniff other dogs for love. I've found the hottest Corgi on TinDog. Woof.</h2>
-    <img src="images/dog-img.jpg" alt="dog-profile">
-    <em>Pebbles, New York</em>
+    <h2>Simply Chosen - Blog</h2>
 
-    <!-- <h2 class="testimonial-text">My dog used to be so lonely, but with TinDog's help, they've found the love of their life. I think.</h2>
-    <img class="testimonial-image" src="images/lady-img.jpg" alt="lady-profile">
-    <em>Beverly, Illinois</em> -->
+    <p>Read more on my blog</p>
+    <button type="button">Follow Me on Facebook</button>
 
-  </section>
-
-
-  <!-- Press -->
-
-  <section id="press">
-    <img src="images/techcrunch.png" alt="tc-logo">
-    <img src="images/tnw.png" alt="tnw-logo">
-    <img src="images/bizinsider.png" alt="biz-insider-logo">
-    <img src="images/mashable.png" alt="mashable-logo">
-
-  </section>
-
-
-  <!-- Pricing -->
-
-  <section id="pricing">
-
-    <h2>A Plan for Every Dog's Needs</h2>
-    <p>Simple and affordable price plans for your and your dog.</p>
-
-
-    <h3>Chihuahua</h3>
-    <h2>Free</h2>
-    <p>5 Matches Per Day</p>
-    <p>10 Messages Per Day</p>
-    <p>Unlimited App Usage</p>
+    <h3>h3</h3>
+    <h2>h2</h2>
+    <p>p</p>
+    <p>pp</p>
+    <p>ppp</p>
     <button type="button">Sign Up</button>
 
 
@@ -159,26 +180,25 @@
   </section>
 
 
-  <!-- Call to Action -->
-
-  <section id="cta">
-
-    <h3>Find the True Love of Your Dog's Life Today.</h3>
-    <button type="button">Download</button>
-    <button type="button">Download</button>
-
-  </section>
-
-
   <!-- Footer -->
 
   <footer id="footer">
 
-    <p>© Copyright TinDog</p>
+    <!-- simplychosen.aimeerichard@gmail.com -->
+    <span>
+      <h1 class="display-1">Simply Chosen</h1>
+    </span>
+    <p>©
+      <script>document.write(new Date().getFullYear())</script> Copyright - All Rights Reserved - Simply Chosen
+    </p>
 
   </footer>
 
+  <!-- Bootstrap JS -->
 
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"
+    integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p"
+    crossorigin="anonymous"></script>
 </body>
 
 </html>
