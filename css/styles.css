@@ -1,7 +1,8 @@
 :root {
-    --color-1: #f4deca;
-    --color-2: #db9f68;
-    --color-3: #92512e;
+    --color-1: #f8efe8;
+    --color-2: #f4deca;
+    --color-3: #e49f7e;
+    --color-4: #bf4f45;
 
     --accent-1: #fcba04;
     --accent-2: #a50104;
@@ -12,6 +13,11 @@ body {
     font-family: 'Poppins', sans-serif;
     font-weight: 400;
     overflow-x: hidden;
+    margin-top: 0;
+}
+
+p {
+    line-height: 1.5;
 }
 
 h1, h6 {
@@ -49,6 +55,16 @@ h4, h5 {
     border-color: rgb(255, 102, 203) !important;
 }
 
+section:before {
+    height: 65px;
+    content: "";
+    display: block;
+}
+
+#title {
+    margin-top: -65px;
+}
+
 .red-bg {
     background-color: var(--accent-3);
 }
@@ -58,5 +74,5 @@ h4, h5 {
 }
 
 .profile-pic {
-    max-width: 450px;
+    max-width: 500px;
 }
