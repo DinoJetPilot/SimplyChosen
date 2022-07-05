@@ -9,15 +9,18 @@
     --accent-3: #590004;
 }
 
+/* Typical Selectors  */
 body {
     font-family: 'Poppins', sans-serif;
     font-weight: 400;
     overflow-x: hidden;
     margin-top: 0;
+    background-color: var(--color-1);
 }
 
 p {
     line-height: 1.5;
+    padding: 0.5rem 2rem 1rem 2rem;
 }
 
 h1, h6 {
@@ -29,14 +32,25 @@ h4, h5 {
     font-weight: 600;
 }
 
+/* Navigation Bar */
 .navbar {
     background-color: var(--accent-3);
     font-size: 0.9rem;
     min-height: 65px;
+    padding: 0;
+}
+
+.navbar-brand {
+    font-size: 2.5rem;
+    /* font-weight: bold; */
 }
 
 .navbar-brand, .nav-link {
     color: var(--color-1);
+}
+
+.nav-item {
+    padding: 0 8px;
 }
 
 .nav-link:hover, .nav-link:active, .navbar-brand:hover, .navbar-brand:active, .navbar-brand:visited, .navbar-brand:hover {
@@ -51,10 +65,26 @@ h4, h5 {
     color: var(--color-3);
 }
 
-.custom-toggler.navbar-toggler {
-    border-color: rgb(255, 102, 203) !important;
+.custom-toggler .navbar-toggler {
+    border-color: rgb(255, 102, 102) !important;
 }
 
+/* Buttons Tweaks */
+button {
+    margin: 1.5rem 0.5rem;
+}
+
+.btn-light, .btn-light:visited {
+    color: var(--color-1);
+    background-color: var(--color-3);
+}
+
+.btn-light:hover, .btn-light:active {
+    color: var(--color-2);
+    background-color: var(--color-4);
+}
+
+/* Other Element Tweaks to classes/IDs */
 section:before {
     height: 65px;
     content: "";
@@ -63,6 +93,10 @@ section:before {
 
 #title {
     margin-top: -65px;
+}
+
+#about {
+    background-color: #ffffff;
 }
 
 .red-bg {
@@ -74,5 +108,5 @@ section:before {
 }
 
 .profile-pic {
-    max-width: 500px;
+    max-width: 350px;
 }
