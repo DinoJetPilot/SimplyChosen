@@ -21,6 +21,12 @@
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet"
     integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
 
+  <!-- Facebook Embed -->
+  <div id="fb-root"></div>
+  <script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v14.0"
+    nonce="gRiqAd4h"></script>
+
+  <!-- Boring Old CSS-->
   <link rel="stylesheet" href="css/styles.css">
 </head>
 
@@ -28,7 +34,7 @@
 
   <!-- Nav Bar  -->
   <nav class="navbar navbar-dark fixed-top navbar-expand-md">
-    <h6><a class="navbar-brand" href="#title">
+    <h6><a class="navbar-brand" href="#">
         Simply Chosen
       </a> </h6>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent"
@@ -46,14 +52,11 @@
           <a class="nav-link" href="#book">Book</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#quotes">Quotes</a>
-        </li>
-        <li class="nav-item">
           <a class="nav-link" href="#bio">Bio</a>
         </li>
-        <li class="nav-item">
+        <!-- <li class="nav-item">
           <a class="nav-link" href="#reviews">Reviews</a>
-        </li>
+        </li> -->
         <li class="nav-item">
           <a class="nav-link" href="#blog">Blog</a>
         </li>
@@ -79,7 +82,7 @@
   <section class="text-center" id="about">
 
 
-    <div class="row px-5 gx-5">
+    <div class="row px-5 gx-5 pb-3">
 
       <div class="col-lg-6 d-lg-block d-sm-none">
         <img class="img-fluid" src="images/logo-1a.jpg" alt="Simply Chosen">
@@ -96,9 +99,9 @@
         <img class="img-thumbnail rounded-circle profile-pic" src="images/profile-2a.jpg" alt="Aimee Richard">
         <div class="">
           <a href="https://www.facebook.com/simplyaimeerenee/" target="_blank"><button type="button"
-              class="btn btn-light fw-bold mx-3 py-2 px-4">Read the Blog</button></a>
+              class="btn btn-light fw-bold mx-3 py-2 px-4 shadow-none">Read the Blog</button></a>
           <a href="mailto:simplychosen.aimeerichard@gmail.com"></a><button type="button"
-            class="btn btn-light fw-bold mx-3 py-2 px-4">Contact
+            class="btn btn-light fw-bold mx-3 py-2 px-4 shadow-none">Contact
             Me</button></a>
         </div>
       </div>
@@ -128,7 +131,7 @@
 
 
         <div class="col-lg-6 col-md-12">
-          <h3>Writing Down My Journey</h3>
+          <h3 class="text-center">Writing Down My Journey</h3>
           <p>My journey is exactly what inspired me to become an author! My life was radically transformed by Jesus
             about 13 years ago [in 2009?] and because of this, my journey as
             both
@@ -141,7 +144,7 @@
             I have a great love for all of my stepmom sisters out there and truly feel led by God to reach out and share
             my story in the hopes that it will help you on your journey. I will be honest... it is not always
             pretty. I do not, by any means, have it all together (and I am a bit of a hot mess myself <i
-              class="fa-regular fa-face-laugh-beam"></i>)! However, I have learned
+              style="color: var(--accent-3);" class="fa-regular fa-face-laugh-beam"></i>)! However, I have learned
             a lot along the way and I continue to learn and grow every single day.
           </p>
           <p>Stepmom sisters, I hope you will join me in embracing our God-given calling. I believe, we as Stepmoms
@@ -149,107 +152,173 @@
             to come together and encourage and love each other while also calling ourselves to a higher standard. One
             that is full of grace, mercy, love, forgiveness and healing!
           </p>
-          <button type="button" class="btn btn-light fw-bold mx-3 py-2 px-4">Get the Book!</button>
+          <button type="button" class="btn btn-light fw-bold mx-3 py-2 px-4 shadow-none">Get the Book!</button>
         </div>
       </div>
     </div>
 
-
-  </section>
-
-  <!-- Quotes -->
-
-  <section id="quotes">
-    <img src="images/quote-1.jpg" alt="">
-    <img src="images/quote-2.jpg" alt="">
-    <img src="images/quote-3.jpg" alt="">
-    <img src="images/quote-4.jpg" alt="">
-    <img src="images/quote-5.jpg" alt="">
 
   </section>
 
   <!-- Biography -->
 
-  <section class="color-2" id="bio">
+  <section id="bio">
 
-    <h2>Marriage & Family</h2>
-    <img src="images/kevin-and-aimee-2.jpg" alt="Kevin and Aimee Richard">
-    <img src="images/sugarcane-field.jpg" alt="Aimee and Madison">
+    <div class="row">
 
+      <div class="col-lg-1"></div>
+
+      <div class="text-center col-lg-4 col-md-12 px-3 pt-2 pb-5">
+        <h2>Marriage</h2>
+        <img class="img-fluid img-thumbnail rounded-3" src="images/kevin-and-aimee-2.jpg" alt="Kevin and Aimee Richard">
+        <p class="small">
+          <quote>“Great marriages don't happen by luck or by accident. They are the result
+            of a consistent
+            investment of time, thoughtfulness, forgiveness, affection, prayer, mutual respect and a rock solid
+            commitment
+            between a husband and wife.” <span class="text-end">-Dave Willis</span>
+          </quote>
+        </p>
+        <p class="text-start">
+          TRUTH!!! Kevin and I have been through SO much. But by the grace of God we are who we are today. We have put a
+          lot of time, effort, work, prayer and more into our marriage. It hasn't been easy but it has been worth it!
+        </p>
+      </div>
+
+      <div class="col-lg-2"></div>
+
+      <div class="text-center col-lg-4 col-md-12 px-3 pt-2 pb-5">
+        <h2>Family</h2>
+        <p class="text-start">ALL children are a gift from God, especially our stepchildren! It breaks my heart when I
+          see stepmoms denigrating their stepchildren. This is not ok! They are God's creation, made in His image! A
+          blended family life is not easy
+          and can be very difficult BUT that is no excuse to treat others badly, especially children! Let's
+          try to remember that they are a gift to us from God and He will use them to shape and refine us and draw us
+          closer to Him! It is a privilege to have them in our lives whether it FEELS like it or not!!</p>
+        <img class="img-fluid img-thumbnail rounded-3" src="images/sugarcane-field.jpg" alt="Aimee and Madison">
+
+      </div>
+
+      <div class="col-lg-1"></div>
+
+    </div>
   </section>
-
-  <!-- Reviews -->
-
-  <section id="reviews">
-    <img src="images/quote-1.jpeg" alt="">
-    <img src="images/quote-2.jpeg" alt="">
-    <img src="images/quote-3.jpeg" alt="">
-    <img src="images/quote-4.jpeg" alt="">
-    <img src="images/quote-5.jpeg" alt="">
-
-  </section>
-
 
   <!-- Blog -->
 
-  <section id="blog">
-
-    <h2>Simply Chosen - Blog</h2>
-
-    <p>Read more on my blog</p>
-    <button type="button" class="btn btn-light">Follow on <i class="fa-brands fa-facebook"></i></button>
-
-    <h3>h3</h3>
-    <h2>h2</h2>
-    <p>p</p>
-    <p>pp</p>
-    <p>ppp</p>
-    <button type="button" class="btn btn-light">Sign Up</button>
-
-
-    <h3>Labrador</h3>
-    <h2>$49 / mo</h2>
-    <p>Unlimited Matches</p>
-    <p>Unlimited Messages</p>
-    <p>Unlimited App Usage</p>
-    <button type="button">Sign Up</button>
-
-
-    <h3>Mastiff</h3>
-    <h2>$99 / mo</h2>
-    <p>Priority Listing</p>
-    <p>Unlimited Matches</p>
-    <p>Unlimited Messages</p>
-    <p>Unlimited App Usage</p>
-    <button type="button">Sign Up</button>
-
-  </section>
-
-
-  <!-- Footer -->
-
-  <footer id="footer">
-
-    <h2>H2</h2>
-    <h3>A Stepmom Journey</h3>
-    <h4>H4</h4>
-    <h5>H5</h5>
-    <h6>H6</h6>
-
+  <section class=" pb-5 color-2" id="blog">
     <div class="container">
       <div class="row">
-        <div class="col">
-          <i class="fa-brands fa-facebook-square"></i>
+
+        <div class="col-lg-6 col-md-12 text-center pt-2">
+          <div id="quote-carousel" class="carousel carousel-dark slide" data-bs-ride="carousel">
+            <!-- <div class="carousel-indicators">
+      <button type="button" data-bs-target="#quote-carousel" data-bs-slide-to="0" class="active" aria-current="true"
+        aria-label="Quote 1"></button>
+      <button type="button" data-bs-target="#quote-carousel" data-bs-slide-to="1" aria-label="Quote 2"></button>
+      <button type="button" data-bs-target="#quote-carousel" data-bs-slide-to="2" aria-label="Quote 3"></button>
+      <button type="button" data-bs-target="#quote-carousel" data-bs-slide-to="3" aria-label="Quote 4"></button>
+      <button type="button" data-bs-target="#quote-carousel" data-bs-slide-to="4" aria-label="Quote 5"></button>
+    </div> -->
+
+            <div class="carousel-inner">
+              <div class="carousel-item active">
+                <div><img class="d-block q-pic" src="images/quote-1.jpg" alt="quote">
+                </div>
+              </div>
+              <div class="carousel-item">
+                <div><img class="d-block q-pic" src="images/quote-2.jpg" alt="quote">
+                </div>
+              </div>
+              <div class="carousel-item">
+                <div><img class="d-block q-pic" src="images/quote-3.jpg" alt="quote">
+                </div>
+              </div>
+              <div class="carousel-item">
+                <div><img class="d-block q-pic" src="images/quote-4.jpg" alt="quote">
+                </div>
+              </div>
+              <div class="carousel-item">
+                <div><img class="d-block q-pic" src="images/quote-5.jpg" alt="quote">
+                </div>
+              </div>
+            </div>
+
+            <button class="carousel-control-prev" type="button" data-bs-target="#quote-carousel" data-bs-slide="prev">
+              <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+              <span class="visually-hidden">Previous</span>
+            </button>
+
+            <button class="carousel-control-next" type="button" data-bs-target="#quote-carousel" data-bs-slide="next">
+              <span class="carousel-control-next-icon" aria-hidden="true"></span>
+              <span class="visually-hidden">Next</span>
+            </button>
+          </div>
+        </div>
+
+        <div class="col-lg-6 col-md-12 text-center pt-4">
+          <h2 class="text-start text-md-center">About the Simply Chosen Blog <i class="fa-brands fa-facebook"></i></h2>
+
+          <p class="text-start pt-4 pb-0 mb-0">"Being a stepmom is sometimes hard and painful. It can feel like you're
+            all alone
+            and no
+            one understands
+            what you're going through. But God does!! He understands and He is with you! Don't believe the lie that you
+            are all alone..." </p>
+          <p class="small text-end">
+            <a href="https://www.facebook.com/simplyaimeerenee/posts/pfbid04C5ws3QqBGmCmqwFGSinXj7GKzJJMY4oxhSuw3nJA15v3BLzVN9iQ4a9nBy8dW1kl"
+              target="_blank">Read More</a>
+          </p>
+
+          <p class="text-start pt-4 pb-0 mb-0">"Real truth right here! If I am going to make it through each day there
+            must be
+            prayer in
+            the morning. If I
+            am going to be loving and kind towards people there must be prayer in the morning! For years my husband did
+            not understand why I had to spend so much time each morning in the word and in prayer..." </p>
+          <p class="small text-end">
+            <a href="https://www.facebook.com/simplyaimeerenee/posts/pfbid0ax2syd1N6ZNQm6kmQujXnTQAP9ZDnNXwpK2az1ZsrbLuuY6JYsXqhmtHbcSDbELsl"
+              target="_blank">Read
+              More</a>
+          </p>
+          <a href="https://www.facebook.com/simplyaimeerenee" target=" _blank"><button type="button"
+              class="btn btn-light shadow-none">Follow Me on <i class="fa-brands fa-facebook"></i></button></a>
         </div>
       </div>
+
+
     </div>
+  </section>
+
+  <!-- Footer -->
+  <div class="container m-auto pb-3 pt-1 text-center">
+    <div class="row">
+      <!-- <div class="col">
+    <i class="fa-brands fa-facebook-square"></i>
+  </div> -->
+      <span>
+        <h1 class="display-2">Simply Chosen</h1>
+        <h3 style="font-weight: 300;">A Stepmom Journey</h3>
+      </span>
+    </div>
+  </div>
+
+  <footer class="m-auto pb-3 pt-1 text-center color-2" id="footer">
+
     <!-- simplychosen.aimeerichard@gmail.com -->
-    <span>
-      <h1 class="display-1">Simply Chosen</h1>
-    </span>
-    <p>©
+    <p class="pt-3" style="color: var(--color-4);">©
       <script>document.write(new Date().getFullYear())</script> Copyright - All Rights Reserved - Simply Chosen
     </p>
+
+    <div class="fb-page" data-href="https://www.facebook.com/simplyaimeerenee/" data-width="350" data-height="85"
+      data-small-header="true" data-adapt-container-width="true" data-hide-cover="true" data-show-facepile="true">
+      <blockquote cite="https://www.facebook.com/simplyaimeerenee/" class="fb-xfbml-parse-ignore"><a
+          href="https://www.facebook.com/simplyaimeerenee/">Simply Chosen A Stepmom Journey</a></blockquote>
+    </div>
+
+    <p class="mt-4 mb-0 pb-0"><a href="#"><i style="color: var(--accent-3);"
+          class="fa-solid fa-arrow-up mb-0 pb-0"></i></a></p>
+    <p class="small pt-0 mt-0" style="color: var(--color-4);">Back to Top</p>
 
   </footer>
 
