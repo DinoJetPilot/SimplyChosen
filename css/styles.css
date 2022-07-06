@@ -173,3 +173,7 @@ section:before {
     flex-direction: column;
     justify-content: center;
 }
+
+#quotes-carousel {
+    margin: 0 auto;
+}
