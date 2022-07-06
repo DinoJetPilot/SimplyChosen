@@ -46,13 +46,19 @@ h4, h5 {
 .navbar {
     background-color: var(--accent-3);
     font-size: 0.9rem;
-    min-height: 65px;
+    min-height: 50px;
     padding: 0;
+
 }
 
-.navbar-brand {
-    font-size: 2.5rem;
-    /* font-weight: bold; */
+.logo-text {
+    font-family: 'Birthstone Bounce', 'Poppins', sans-serif, cursive;
+    font-size: 30px;
+}
+
+.navbar .navbar-toggler {
+    margin-top: 5px;
+    margin-bottom: 5px;
 }
 
 .navbar-brand, .nav-link {
@@ -132,23 +138,33 @@ section:before {
     max-height: 350px;
 }
 
-/* Carousel Settings */
-#quotes {
-    padding: 1rem 3.5rem;
-    text-align: center;
+.fa-facebook-square {
+    opacity: 0.15;
 }
 
+/* Carousel Settings */
 .q-pic {
     height: 450px;
     border-radius: 10px;
 }
 
 .carousel {
-    width: 500px;
-    height: 457px;
+    max-width: 500px;
+    max-height: 457px;
     border-radius: 15px;
     border: 4px solid var(--accent-2);
 
+}
+
+@media (max-width: 768px) {
+    .carousel {
+        width: 350px;
+        height: 320px;
+    }
+
+    .q-pic {
+        height: 312px;
+    }
 }
 
 .carousel-item>div {
