@@ -1,15 +1,13 @@
 # SimplyChosen
 Simply Chosen: A Stepmom Journey
 
-### Notes from FB
+<!-- Aimee Richard
+simplychosen.aimeerichard@gmail.com -->
 
-Aimee Richard
-simplychosen.aimeerichard@gmail.com
-
-About: 
+### About: 
 Simply Chosen: A Stepmom Journey is written from my personal experience as a stepmom of almost 15 years. I am far from an expert but I feel that God has simply chosen me and many of you for this role!
 
-### Intro
+<!-- ### Intro
 Welcome to Simply Chosen A Stepmom Journey!  My name is Aimee and I have been a stepmom for almost 16 years now. It has been one of my biggest blessings as well as one of my biggest struggles! It also happens that I wrote a book about my journey😱 I honestly still can’t believe that happened! 
 My life was radically transformed by Jesus about 13 years ago and because of that my journey as a wife and stepmom was as well. I am passionate about seeing women set free to walk in their unique, God given roles!
 I have a great love for all of my stepmom sisters out there and truly feel led by God to reach out to you and share my story in the hopes that it will help you on your journey. I will be honest it is not always pretty, I am a bit of a hot mess and I do not by any means have it all together! Lol! I have however learned a lot along the way and I continue to learn and grow every single day. 
@@ -83,3 +81,4 @@ It’s hard to share the bad things about our past. But, what if by sharing we h
 Who can you share your story with today? We’d love to hear whatever you feel led to share 💕
 
 “Being a stepmom is simultaneously the greatest blessing and the most difficult thing I’ve ever done.” -Quote from my book. 
+-->
