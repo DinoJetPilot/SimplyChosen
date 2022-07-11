@@ -4,7 +4,7 @@ Simply Chosen: A Stepmom Journey
 <!-- Aimee Richard
 simplychosen.aimeerichard@gmail.com -->
 
-## About: 
+### About: 
 Simply Chosen: A Stepmom Journey is written from my personal experience as a stepmom of almost 15 years. I am far from an expert but I feel that God has simply chosen me and many of you for this role!
 
 <!-- ### Intro
